@@ -1,9 +1,8 @@
 # ![GA Logo](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) Continuous Distributions
 
 ## Lesson Plan
-By the end of this lesson, students should be able to:
-
-* Describe what random variables are, and why they're worth learning about
-* Describe all the major continuous distributions, and when one might use each
-* Understand the difference between a pmf and pdf, and why we can't have continuous pmfs
-* Be able to simulate and graph distributions using the `scipy` library
+*By the end of this lesson, students will be able to:*
+- Describe the difference between pmfs and pdfs.
+- Use probability density functions (pdfs) and cumulative distribution functions (CDFs) to find probabilities of events.
+- Use the Empirical Rule / 68-95-99.7 Rule to calculate probabilities of events for a Normal distribution.
+- Describe and give examples of when to use the following distributions: Continuous Uniform, Normal, $t$, Exponential, Gamma, and Beta.
